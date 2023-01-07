@@ -12,7 +12,7 @@ export default function App() {
             </h1>
 
             <div className="max-w-md mx-auto mt-10 space-y-5">
-                <HoocCounter id={4} />
+                <HoocCounter  />
               
             </div>
         </div>
