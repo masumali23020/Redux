@@ -1,2 +1,2 @@
-export const INCREMENT = "increment/counter"
-export const DECREMENT = "decrement/counter"
+export const INCREMENT ="increment/counter"
+export const DECREMENT ="decrement/counter"
